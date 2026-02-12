@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+opencv-python
+matplotlib
+scikit-image
+tqdm
+Python 3.10
+CUDA 12.3 (optional for GPU)
+
